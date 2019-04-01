@@ -1,2 +1,2 @@
-# 第一个博客
+# 欢迎页面
 welcome to wenbin blog
