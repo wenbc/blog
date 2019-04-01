@@ -1,2 +1,2 @@
 # 第一个博客
-温斌的博客
+welcome to wenbin blog
